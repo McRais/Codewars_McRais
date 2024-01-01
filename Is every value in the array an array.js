@@ -1,0 +1,1 @@
+const arrCheck = value => value.every((element)=> Array.isArray(element))
